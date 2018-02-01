@@ -1,5 +1,7 @@
 //
 //
+//edited by: Ian Thomas
+//date edited: 02/01/2018
 //
 //
 //program: asteroids.cpp
